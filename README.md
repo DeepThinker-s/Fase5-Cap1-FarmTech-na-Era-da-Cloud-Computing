@@ -109,7 +109,7 @@ Os notebooks contêm execuções idênticas do projeto para compor a nota indivi
 
 > **Nota:** Valores estimados com base nos preços públicos da AWS (fev/2026). Confirmar com a calculadora AWS para valores exatos e atualizados.
 >
-> **Prints obrigatórios** (salvar em `assets/aws-calculator/`):
+> **Prints obrigatórios** (salvos em `assets/aws-calculator/`):
 > - `aws_calc_sp.pdf` — Print da simulação São Paulo
 > - `aws_calc_virginia.pdf` — Print da simulação Virgínia do Norte
 

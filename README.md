@@ -62,6 +62,8 @@ Todo o passo a passo técnico (código + relatório) está no **Notebook Jupyter
 └── README.md              # Este arquivo
 ```
 
+Link Github
+
 ---
 
 ## 📊 Entrega 1 — Machine Learning (Notebook Jupyter)

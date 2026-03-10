@@ -147,7 +147,7 @@ Mesmo que **us-east-1 (Virgínia do Norte)** apresente menor custo (~$11.59/mês
 
 1. **Clone o repositório:**
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone [<URL_DO_REPOSITORIO>](https://github.com/DeepThinker-s/Fase5-Cap1-FarmTech-na-Era-da-Cloud-Computing.git)
    cd Fase-5-Cap-1-FarmTech
    ```
 

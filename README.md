@@ -62,7 +62,7 @@ Todo o passo a passo técnico (código + relatório) está no **Notebook Jupyter
 └── README.md              # Este arquivo
 ```
 
-Link Github
+- **Github:** **(https://github.com/DeepThinker-s/Fase5-Cap1-FarmTech-na-Era-da-Cloud-Computing)**
 
 ---
 

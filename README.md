@@ -83,7 +83,6 @@ Os notebooks contêm execuções idênticas do projeto para compor a nota indivi
 
 ### 🎥 Vídeo (Entrega 1)
 - **YouTube (não listado):** **(https://youtu.be/8M6ju4jYRBc)**
-> Duração máxima: 5 minutos. Demonstra execução e resultados do notebook.
 
 ---
 

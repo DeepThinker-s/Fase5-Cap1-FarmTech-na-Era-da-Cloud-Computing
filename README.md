@@ -133,7 +133,7 @@ Mesmo que **us-east-1 (Virgínia do Norte)** apresente menor custo (~$11.59/mês
 ✅ **Escolha final: São Paulo (sa-east-1)**
 
 ### 🎥 Vídeo (Entrega 2)
-- **YouTube (não listado):** **[PREENCHER_LINK_VIDEO_ENTREGA_2]**
+- **YouTube (não listado):** **(https://youtu.be/e5OvkpbnzX4)**
 ---
 
 ## 🔧 Como executar o código

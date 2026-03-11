@@ -134,8 +134,6 @@ Mesmo que **us-east-1 (Virgínia do Norte)** apresente menor custo (~$11.59/mês
 
 ### 🎥 Vídeo (Entrega 2)
 - **YouTube (não listado):** **[PREENCHER_LINK_VIDEO_ENTREGA_2]**
-> Duração máxima: 5 minutos. Mostra a AWS Pricing Calculator e a comparação SP vs Virgínia.
-
 ---
 
 ## 🔧 Como executar o código
